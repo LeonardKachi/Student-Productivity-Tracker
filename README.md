@@ -126,7 +126,7 @@ The application uses a serverless architecture on AWS:
 
 ## License
 
-Distributed under the MIT License. See [License](License) for more information.
+Distributed under the GNU General Public License v3.0. See [License](License) for more information.
 
 ## Contact
 
