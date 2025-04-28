@@ -1,6 +1,6 @@
 # Student Productivity Tracker
 
-![App Screenshot](public/screenshot.png)
+![App Screenshot](public/screenshot.jpg)
 
 A web application for students to track their daily productivity, provide feedback, and identify blockers. Built with React and AWS serverless technologies.
 
